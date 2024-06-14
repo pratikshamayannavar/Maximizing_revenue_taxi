@@ -11,6 +11,6 @@ Conducted a T-test to evaluate the relationship between payment type and fare am
 
 ### Technologies Used
 
-**Tools:** Python
-**Data Processing:** Pandas for data cleaning and transformation
-**Visualizations:** Matplotlib and Seaborn for creating visualizations
+_ **Tools:** Python
+_ **Data Processing:** Pandas for data cleaning and transformation
+_ **Visualizations:** Matplotlib and Seaborn for creating visualizations
