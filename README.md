@@ -9,8 +9,11 @@ Project Description
 This analysis utilized a comprehensive dataset of NYC taxi trip records. Data cleaning and feature engineering were performed to focus on relevant columns essential for the investigation.
 
 Hypothesis Testing
+
 Null Hypothesis: There is no difference in average fare between customers who use credit cards and those who use cash.
+
 Alternative Hypothesis: There is a difference in average fare between customers who use credit cards and those who use cash.
+
 Result: With a T-statistic of 62.68 and a P-value of less than 0.05, the null hypothesis is rejected, indicating a significant difference in average fare between the two payment methods.
 
 Technologies Used
